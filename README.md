@@ -26,7 +26,7 @@ Results:
 
 2. Women who aged betwen 28 and 37 years old are the more likely to book on Airbnbs. **More marketing resources should be targeted to these people  to increase their rate of conversion.**
 
-3. The majority of booking users are on Mac Desktop and they come without any affiliate marketing channels. Also, the average browing time of booking users are 40% higher compared with non-booking users. Thus, **some resources should be transfer from affiliate marketing to improve the user experience of desktop, especially Mac Desktop.**
+3. The majority of booking users are on Mac Desktop and they come without any affiliate marketing channels. Also, the average browing time of booking users are 40% higher compared with non-booking users. Thus, **some resources should be transfer from affiliate marketing to the improvement of the user experience of desktop, especially Mac Desktop.**
 
 
 
